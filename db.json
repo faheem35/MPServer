@@ -1,0 +1,71 @@
+{
+  "uploadVideos": [
+    {
+      "id": "53a0",
+      "caption": "Golden Sparrow",
+      "imgUrl": "https://i.ytimg.com/vi/AAq06bS8UZM/maxresdefault.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/AAq06bS8UZM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "e269",
+      "categoryName": "promo",
+      "allVideos": []
+    },
+    {
+      "id": "9deb",
+      "categoryName": "Films",
+      "allVideos": []
+    },
+    {
+      "id": "b7b5",
+      "categoryName": "Tutorials",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "ba08",
+      "caption": "Chikni Chameli from Agneepath",
+      "youtubeLink": "https://www.youtube.com/embed/QcQpqWhTBCE",
+      "timeStamp": "12/22/2024, 9:50:44 PM GMT+5:30"
+    },
+    {
+      "id": "e8b8",
+      "caption": "peelings from pushpa",
+      "youtubeLink": "https://www.youtube.com/embed/ietprsshiSs",
+      "timeStamp": "12/28/2024, 12:34:02 PM GMT+5:30"
+    },
+    {
+      "id": "a18b",
+      "caption": "Golden Sparrow",
+      "youtubeLink": "https://www.youtube.com/embed/AAq06bS8UZM",
+      "timeStamp": "12/28/2024, 1:16:20 PM GMT+5:30"
+    },
+    {
+      "id": "da82",
+      "caption": "Leo Badass",
+      "youtubeLink": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "timeStamp": "12/28/2024, 1:16:22 PM GMT+5:30"
+    },
+    {
+      "id": "c4c3",
+      "caption": "Aasa kooda",
+      "youtubeLink": "https://www.youtube.com/embed/9Godjh6CW3g",
+      "timeStamp": "12/28/2024, 1:16:25 PM GMT+5:30"
+    },
+    {
+      "id": "8fdb",
+      "caption": "Leo Badass",
+      "youtubeLink": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "timeStamp": "12/28/2024, 1:38:38 PM GMT+5:30"
+    },
+    {
+      "id": "a4e5",
+      "caption": "Chaleya",
+      "youtubeLink": "https://www.youtube.com/embed/dRTsay1jVwg",
+      "timeStamp": "12/30/2024, 12:44:20 PM GMT+5:30"
+    }
+  ]
+}
